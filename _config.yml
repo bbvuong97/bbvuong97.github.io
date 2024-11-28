@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Brian Vuong"
-description              : "PhD Candidate, Mechanical Engineering, Stanford University "
+description              : # "PhD Candidate, Mechanical Engineering, Stanford University "
 repository               : "bbvuong97/https://bbvuong97.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Brian Vuong"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/Brian_Vuong_dVRK_SRC.png"
   bio              : "PhD Candidate, Mechanical Engineering, Stanford University"
   location         : "Stanford, CA"
   employer         :
