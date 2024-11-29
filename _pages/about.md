@@ -20,8 +20,8 @@ redirect_from:
 I am a PhD Candidate in Mechanical Engineering at Stanford University, advised by Allison Okamura in the Collaborative Haptics and Robotics in Medicine (CHARM) Lab. I am a recipient of the NSF Graduate Research Fellowship Program (GRFP) fellowship and Stanford Graduate Fellowship (SGF) in Science & Engineering. I received my BS in Biomedical Engineering at Brown University. Prior to starting my doctorol studies, I spent two years in medical research in the Department of Orthopaedic Surgery, Stanford University, where I spearheaded biomechanics and engineering collaboration projects. My doctoral disseration research focuses on design of haptic devices and haptic augmentation for teleoperation of the da Vinci Surgical System. My research interests span medical robotics, soft robotics, haptics, and assistive technology.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 News No. 1.
+- *2022.02*: &nbsp;🎉🎉 News No. 2.
 
 # 📝 Projects
 
