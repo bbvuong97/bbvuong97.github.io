@@ -24,25 +24,24 @@ I am a PhD Candidate in Mechanical Engineering at Stanford University, advised b
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-RAL (in preparation)</div><img src='images/palpation_Hoxel_dVRK.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Relocated Haptic Feedback for Surgical Robot Teleoperation**](https://charm.stanford.edu/Main/Research)
+**Relocated Haptic Feedback for Surgical Robot Teleoperation**
 
 **Brian Vuong**, Sangheui Cheon, Josie Davidson, Kyujin Cho, Allison Okamura
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Designed a wrist-worn haptic device consisting of a pneumatically actuated, 3D-printed soft haptic voxel display (Hoxel) combined with a novel automatic-fitting anchor actuated by custom-designed tendon transmission system.
-- Created an integrated haptic feedback system for tactile force feedback during teleoperation of the da Vinci Research Kit (dVRK).
-- Designed and conducted a user study to explore the effects of haptic feedback on performance and force accuracy of a palpation task with the dVRK.
+- Designed wrist-worn haptic device consisting of a pneumatically actuated, 3D-printed soft haptic voxel display (Hoxel) combined with a novel automatic-fitting anchor with tendon transmission.
+- Integrated tactile force feedback system for teleoperation of the da Vinci Research Kit (dVRK).
+- Conducted user study exploring the effects of haptic feedback on performance and force accuracy of a palpation task with the dVRK.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RoboSoft 2024</div><img src='dVRK_palpation_PSM_tissue_view.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RoboSoft 2024</div><img src='neurosurgical_CAAR.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Concentric Tube Robot and Robotic System for Neurosurgery**
 
 Tian-Ao Ren, Zhongchun Yu, **Brian Vuong**, Antonio Meola, and Allison M. Okamura
 
-- Helped develop concentric agonist-antagonist robot (CAAR) end-effector, designed to carry out surgical actions as directed by a surgeon, through its end-mounted gripper.
+- Helped develop concentric agonist-antagonist robot (CAAR) end-effector with cable-driven gripper for surgical tasks.
 - Mentored masters students and undergrad on mechatronic design of 4-DoF serial manipulator arm for positioning of the flexible end-effector.
 - Contributed to invention disclosure and provisional patent (in preparation).
 - Work on CAAR presented at RoboSoft2024: Soft Robotics Inspired Biology Workshop 2024
