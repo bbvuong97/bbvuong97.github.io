@@ -35,7 +35,7 @@ I am a PhD Candidate in Mechanical Engineering at Stanford University, advised b
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RoboSoft 2024</div><img src='neurosurgical_CAAR.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RoboSoft 2024</div><img src='dVRK_palpation_PSM_tissue_view.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Concentric Tube Robot and Robotic System for Neurosurgery**
