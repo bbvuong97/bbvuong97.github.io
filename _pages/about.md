@@ -19,9 +19,9 @@ redirect_from:
 
 I am a PhD Candidate in Mechanical Engineering at Stanford University, advised by Allison Okamura in the Collaborative Haptics and Robotics in Medicine (CHARM) Lab. I am a recipient of the NSF Graduate Research Fellowship Program (GRFP) fellowship and Stanford Graduate Fellowship (SGF) in Science & Engineering. I received my BS in Biomedical Engineering at Brown University. Prior to starting my doctorol studies, I spent two years in medical research in the Department of Orthopaedic Surgery, Stanford University, where I spearheaded biomechanics and engineering collaboration projects. My doctoral disseration research focuses on design of haptic devices and haptic augmentation for teleoperation of the da Vinci Surgical System. My research interests span medical robotics, soft robotics, haptics, and assistive technology.
 
-# 📝 Research Projects
+# 📝 Research
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-RAL (in preparation)</div><img src='images/palpation_Hoxel_dVRK.gif' alt="sym" width="150%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-RAL (in preparation)</div><img src='images/palpation_Hoxel_dVRK.gif' alt="sym" width="125%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Relocated Haptic Feedback for Surgical Robot Teleoperation**
@@ -33,7 +33,7 @@ I am a PhD Candidate in Mechanical Engineering at Stanford University, advised b
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RoboSoft 2024</div><img src='neurosurgical_CAAR.gif' alt="sym" width="150%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RoboSoft 2024</div><img src='neurosurgical_CAAR.gif' alt="sym" width="125%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Concentric Tube Robot and Robotic System for Neurosurgery**
@@ -47,7 +47,7 @@ Tian-Ao Ren, Zhongchun Yu, **Brian Vuong**, Antonio Meola, and Allison M. Okamur
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-RAL (in preparation)</div><img src='images/sensory_substitution_device.png' alt="sym" width="150%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE WHC</div><img src='images/sensory_substitution_device.png' alt="sym" width="125%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Wearable Sensory Substitution for Proprioception via Deep Pressure](https://arxiv.org/pdf/2306.04034)**
@@ -59,7 +59,7 @@ Sreela Kodali, **Brian Vuong**, Thomas Bulea, Alexander Chesler, Carsten Bönnem
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-RAL (in preparation)</div><img src='images/exoskeleton_HILO.png' alt="sym" width="150%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JNER</div><img src='images/exoskeleton_HILO.png' alt="sym" width="150%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Optimization of Exoskeleton Assistance](https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-023-01287-5)**
@@ -71,22 +71,59 @@ Ava Lakmazaheri, Seungmoon Song, **Brian Vuong**, Blake Biskner, Deborah M. Kado
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RoboSoft 2024</div><img src='neurosurgical_CAAR.gif' alt="sym" width="100%"></div></div>
+# 🛠 Design Projects
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CS 225A Spring 2023</div><img src='images/CS225A_demo_clip.gif' alt="sym" width="125%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+**Hierarchical Control of Panda Robot in SAI2**
+
+- [Full demo video](https://youtu.be/Uc5Fe3OJMho)
+
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ME 223 Fall 2022</div><img src='images/ME223_demo_clip.gif' alt="sym" width="125%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**5-DoF Serial Manipulator for Liquid Handling**
+
+- [Full demo video](https://youtu.be/XHy-WnZNWOY)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ME 218C Spring 2022</div><img src='images/ME218C_PicMan.png' alt="sym" width="125%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Dual-Prop Boat with Teleoperation Controller and Radio UART Communication**
+
+- [Project website](https://picman.webflow.io/)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ME 218B Winter 2022</div><img src='images/ME218C_nessie.png' alt="sym" width="125%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Mobile Robot with Sensing for Path-Following Locomotion and PID Speed Control**
+
+- [Project website](https://lilnessie-me218b.weebly.com)
+- [Video demo](https://www.youtube.com/watch?v=JPx1zgaApNk)
+
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* NSF Graduate Research Fellowship (GRFP)
+- *2021.09* Stanford Graduate Fellowship (SGF) in Science & Engineering
+- *2018.06* Karen T. Romer Undergraduate Teaching and Research Award (UTRA), Brown University
 
 # 📖 Education
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.09 - (now)*, PhD in Mechanical Engineering, Stanford University
+- *2015.09 - 2019.05*, ScB (magna cum laude) in Biomedical Engineering, Brown University
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2017.06 - 2017.08*, Research Intern, NASA Ames Research Center
