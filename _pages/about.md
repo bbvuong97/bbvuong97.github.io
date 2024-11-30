@@ -21,7 +21,7 @@ I am a PhD Candidate in Mechanical Engineering at Stanford University, advised b
 
 # 📝 Research
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-RAL (in preparation)</div><img src='images/palpation_Hoxel_dVRK.gif' alt="sym" width="125%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-RAL (in preparation)</div><img src='images/3panel.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Relocated Haptic Feedback for Surgical Robot Teleoperation**
@@ -33,7 +33,7 @@ I am a PhD Candidate in Mechanical Engineering at Stanford University, advised b
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RoboSoft 2024</div><img src='neurosurgical_CAAR.gif' alt="sym" width="125%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RoboSoft 2024</div><img src='images/charm24spring.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Concentric Tube Robot and Robotic System for Neurosurgery**
@@ -47,7 +47,7 @@ Tian-Ao Ren, Zhongchun Yu, **Brian Vuong**, Antonio Meola, and Allison M. Okamur
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE WHC</div><img src='images/sensory_substitution_device.png' alt="sym" width="125%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE WHC</div><img src='images/sensory_substitution_device.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Wearable Sensory Substitution for Proprioception via Deep Pressure](https://arxiv.org/pdf/2306.04034)**
@@ -59,7 +59,7 @@ Sreela Kodali, **Brian Vuong**, Thomas Bulea, Alexander Chesler, Carsten Bönnem
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JNER</div><img src='images/exoskeleton_HILO.png' alt="sym" width="150%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JNER</div><img src='images/exoskeleton_HILO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Optimization of Exoskeleton Assistance](https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-023-01287-5)**
@@ -73,7 +73,7 @@ Ava Lakmazaheri, Seungmoon Song, **Brian Vuong**, Blake Biskner, Deborah M. Kado
 
 # 🛠 Design Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CS 225A Spring 2023</div><img src='images/CS225A_demo_clip.gif' alt="sym" width="125%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CS 225A Spring 2023</div><img src='images/CS225A_demo_clip.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Hierarchical Control of Panda Robot in SAI2**
@@ -84,7 +84,7 @@ Ava Lakmazaheri, Seungmoon Song, **Brian Vuong**, Blake Biskner, Deborah M. Kado
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ME 223 Fall 2022</div><img src='images/ME223_demo_clip.gif' alt="sym" width="125%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ME 223 Fall 2022</div><img src='images/ME223_demo_clip.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **5-DoF Serial Manipulator for Liquid Handling**
@@ -94,7 +94,7 @@ Ava Lakmazaheri, Seungmoon Song, **Brian Vuong**, Blake Biskner, Deborah M. Kado
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ME 218C Spring 2022</div><img src='images/ME218C_PicMan.png' alt="sym" width="125%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ME 218C Spring 2022</div><img src='images/ME218C_PicMan.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Dual-Prop Boat with Teleoperation Controller and Radio UART Communication**
@@ -104,7 +104,7 @@ Ava Lakmazaheri, Seungmoon Song, **Brian Vuong**, Blake Biskner, Deborah M. Kado
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ME 218B Winter 2022</div><img src='images/ME218C_nessie.png' alt="sym" width="125%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ME 218B Winter 2022</div><img src='images/ME218C_nessie.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Mobile Robot with Sensing for Path-Following Locomotion and PID Speed Control**
