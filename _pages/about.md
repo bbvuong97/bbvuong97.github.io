@@ -21,27 +21,18 @@ I am a PhD Candidate in Mechanical Engineering at Stanford University, advised b
 
 # 📝 Research Projects
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">IEEE-RAL (in preparation)</div>
-      <img src='images/palpation_Hoxel_dVRK.gif' alt="sym1" width="100%">
-    </div>
-    <div>
-      <img src='images/dVRK_palpation_PSM_tissue_view.gif' alt="sym2" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    **Relocated Haptic Feedback for Surgical Robot Teleoperation**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-RAL (in preparation)</div><img src='images/palpation_Hoxel_dVRK.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-    **Brian Vuong**, Sangheui Cheon, Josie Davidson, Kyujin Cho, Allison Okamura
+**Relocated Haptic Feedback for Surgical Robot Teleoperation**
 
-    - Designed wrist-worn haptic device consisting of a pneumatically actuated, 3D-printed soft haptic voxel display (Hoxel) combined with a novel automatic-fitting anchor with tendon transmission.
-    - Integrated tactile force feedback system for teleoperation of the da Vinci Research Kit (dVRK).
-    - Conducted user study exploring the effects of haptic feedback on performance and force accuracy of a palpation task with the dVRK.
-  </div>
+**Brian Vuong**, Sangheui Cheon, Josie Davidson, Kyujin Cho, Allison Okamura
+
+- Designed wrist-worn haptic device consisting of a pneumatically actuated, 3D-printed soft haptic voxel display (Hoxel) combined with a novel automatic-fitting anchor with tendon transmission.
+- Integrated tactile force feedback system for teleoperation of the da Vinci Research Kit (dVRK).
+- Completed user study exploring the effects of haptic feedback on performance and force accuracy of a palpation task with the dVRK.
 </div>
-
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RoboSoft 2024</div><img src='neurosurgical_CAAR.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -50,7 +41,7 @@ I am a PhD Candidate in Mechanical Engineering at Stanford University, advised b
 
 Tian-Ao Ren, Zhongchun Yu, **Brian Vuong**, Antonio Meola, and Allison M. Okamura
 
-- Helped develop concentric agonist-antagonist robot (CAAR) end-effector with cable-driven gripper for surgical tasks.
+- Developed concentric agonist-antagonist robot (CAAR) end-effector with cable-driven gripper for surgical tasks.
 - Mentored masters students and undergrad on mechatronic design of 4-DoF serial manipulator arm for positioning of the flexible end-effector.
 - Contributed to invention disclosure and provisional patent (in preparation).
 - Work on CAAR presented at RoboSoft2024: Soft Robotics Inspired Biology Workshop 2024
@@ -59,6 +50,34 @@ Tian-Ao Ren, Zhongchun Yu, **Brian Vuong**, Antonio Meola, and Allison M. Okamur
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-RAL (in preparation)</div><img src='images/sensory_substitution_device.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Wearable Sensory Substitution for Proprioception via Deep Pressure**] (https://arxiv.org/pdf/2306.04034)
+
+Sreela Kodali, **Brian Vuong**, Thomas Bulea, Alexander Chesler, Carsten Bönnemann, and Allison Okamura
+
+- Improved design of device to communicate proprioceptive information via deep pressure stimulation to individuals affected by PIEZO2 loss of function. Explored alternative designs with soft pneumatic actuators and integration with flexible sensor for arm angle measurement.
+- Completed study to evaluate performance of device and effects on proprioception.
+- Work presented at the [2023 IEEE World Haptics Conference] (https://ieeexplore.ieee.org/document/10224435)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-RAL (in preparation)</div><img src='images/exoskeleton_HILO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Optimization of Exoskeleton Assistance**] (https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-023-01287-5)
+
+Ava Lakmazaheri, Seungmoon Song, **Brian Vuong**, Blake Biskner, Deborah M. Kado, Steven H. Collins
+
+- Human-in-the-loop optimization of torque patterns for ankle exeloskeleton use among older aduls.
+- Results of study published in [Journal of NeuroEngineering and Rehabilitation] (https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-023-01287-5)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RoboSoft 2024</div><img src='neurosurgical_CAAR.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
