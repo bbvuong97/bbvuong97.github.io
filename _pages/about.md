@@ -21,7 +21,7 @@ I am a PhD Candidate in Mechanical Engineering at Stanford University, advised b
 
 # 📝 Research Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TII</div><img src='images/palpation_Hoxel_dVRK.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-RAL (in preparation)</div><img src='images/palpation_Hoxel_dVRK.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Relocated Haptic Feedback for Surgical Robot Teleoperation**](https://charm.stanford.edu/Main/Research)
@@ -32,6 +32,23 @@ I am a PhD Candidate in Mechanical Engineering at Stanford University, advised b
 - Designed a wrist-worn haptic device consisting of a pneumatically actuated, 3D-printed soft haptic voxel display (Hoxel) combined with a novel automatic-fitting anchor actuated by custom-designed tendon transmission system.
 - Created an integrated haptic feedback system for tactile force feedback during teleoperation of the da Vinci Research Kit (dVRK).
 - Designed and conducted a user study to explore the effects of haptic feedback on performance and force accuracy of a palpation task with the dVRK.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RoboSoft 2024</div><img src='neurosurgical_CAAR.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Concentric Tube Robot and Robotic System for Neurosurgery**
+
+Tian-Ao Ren, Zhongchun Yu, **Brian Vuong**, Antonio Meola, and Allison M. Okamura
+
+- Helped develop concentric agonist-antagonist robot (CAAR) end-effector, designed to carry out surgical actions as directed by a surgeon, through its end-mounted gripper.
+- Mentored masters students and undergrad on mechatronic design of 4-DoF serial manipulator arm for positioning of the flexible end-effector.
+- Contributed to invention disclosure and provisional patent (in preparation).
+- Work on CAAR presented at RoboSoft2024: Soft Robotics Inspired Biology Workshop 2024
+- [Best submission for lightning talks](https://www.colorado.edu/lab/jayaram/RoboSoft2024)
+- [Poster](https://drive.google.com/file/d/1_OrWDOYpiKpdDFcmk0fL9glgCR9Nf2Y1/view?usp=sharing)
+
 </div>
 </div>
 
