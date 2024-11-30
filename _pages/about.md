@@ -21,7 +21,7 @@ I am a PhD Candidate in Mechanical Engineering at Stanford University, advised b
 
 # 📝 Research Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">(RA-L (in preparation))</div><img src='500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-TII</div><img src='images/palpation_Hoxel_dVRK.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Relocated Haptic Feedback for Surgical Robot Teleoperation**](https://charm.stanford.edu/Main/Research)
