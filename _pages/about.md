@@ -21,18 +21,27 @@ I am a PhD Candidate in Mechanical Engineering at Stanford University, advised b
 
 # 📝 Research Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-RAL (in preparation)</div><img src='images/palpation_Hoxel_dVRK.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE-RAL (in preparation)</div>
+      <img src='images/palpation_Hoxel_dVRK.gif' alt="sym1" width="100%">
+    </div>
+    <div>
+      <img src='images/dVRK_palpation_PSM_tissue_view.gif' alt="sym2" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+    **Relocated Haptic Feedback for Surgical Robot Teleoperation**
 
-**Relocated Haptic Feedback for Surgical Robot Teleoperation**
+    **Brian Vuong**, Sangheui Cheon, Josie Davidson, Kyujin Cho, Allison Okamura
 
-**Brian Vuong**, Sangheui Cheon, Josie Davidson, Kyujin Cho, Allison Okamura
-
-- Designed wrist-worn haptic device consisting of a pneumatically actuated, 3D-printed soft haptic voxel display (Hoxel) combined with a novel automatic-fitting anchor with tendon transmission.
-- Integrated tactile force feedback system for teleoperation of the da Vinci Research Kit (dVRK).
-- Conducted user study exploring the effects of haptic feedback on performance and force accuracy of a palpation task with the dVRK.
+    - Designed wrist-worn haptic device consisting of a pneumatically actuated, 3D-printed soft haptic voxel display (Hoxel) combined with a novel automatic-fitting anchor with tendon transmission.
+    - Integrated tactile force feedback system for teleoperation of the da Vinci Research Kit (dVRK).
+    - Conducted user study exploring the effects of haptic feedback on performance and force accuracy of a palpation task with the dVRK.
+  </div>
 </div>
-</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RoboSoft 2024</div><img src='neurosurgical_CAAR.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
