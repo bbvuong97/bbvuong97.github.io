@@ -104,7 +104,7 @@ Ava Lakmazaheri, Seungmoon Song, **Brian Vuong**, Blake Biskner, Deborah M. Kado
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ME 218B Winter 2022</div><img src='images/ME218C_nessie.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ME 218B Winter 2022</div><img src='images/nessie_combined_view.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Mobile Robot with Sensing for Path-Following Locomotion and PID Speed Control**
