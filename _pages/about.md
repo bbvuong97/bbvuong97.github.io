@@ -21,7 +21,7 @@ I am a PhD Candidate in Mechanical Engineering at Stanford University, advised b
 
 # 📝 Research
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-RAL (in preparation)</div><img src='images/3panel.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE-RAL (in preparation)</div><img src='images/palpation1.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Relocated Haptic Feedback for Surgical Robot Teleoperation**
